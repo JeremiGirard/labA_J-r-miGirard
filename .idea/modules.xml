@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exp1_experience_verte/Exp1_experience_verte.iml" filepath="$PROJECT_DIR$/Exp1_experience_verte/Exp1_experience_verte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/convertisseu2/convertisseu2.iml" filepath="$PROJECT_DIR$/convertisseu2/convertisseu2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" filepath="$PROJECT_DIR$/ex1_salutation/ex1_salutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2_convertisseur/ex2_convertisseur.iml" filepath="$PROJECT_DIR$/ex2_convertisseur/ex2_convertisseur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3_convertisseur2/ex3_convertisseur2.iml" filepath="$PROJECT_DIR$/ex3_convertisseur2/ex3_convertisseur2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4_pythagore/ex4_pythagore.iml" filepath="$PROJECT_DIR$/ex4_pythagore/ex4_pythagore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex5_vecteur/ex5_vecteur.iml" filepath="$PROJECT_DIR$/ex5_vecteur/ex5_vecteur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp2_resolution/exp2_resolution.iml" filepath="$PROJECT_DIR$/exp2_resolution/exp2_resolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laboratoireA.iml" filepath="$PROJECT_DIR$/laboratoireA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sta1_geometrie/sta1_geometrie.iml" filepath="$PROJECT_DIR$/sta1_geometrie/sta1_geometrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sta2_typage/sta2_typage.iml" filepath="$PROJECT_DIR$/sta2_typage/sta2_typage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sta3_boitenoire/sta3_boitenoire.iml" filepath="$PROJECT_DIR$/sta3_boitenoire/sta3_boitenoire.iml" />
+    </modules>
+  </component>
+</project>
